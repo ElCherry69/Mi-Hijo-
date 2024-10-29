@@ -1,6 +1,6 @@
-import matplotlib.pyplot as plt
-import numpy as np
 import streamlit as st
+import numpy as np
+
 
 st.sidebar.title('Mi primera barra lateral de Streamlit')
 st.sidebar.header('¡Hola, Barra Lateral!')
